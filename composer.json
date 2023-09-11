@@ -1,5 +1,5 @@
 {
-    "name": "hoangphi/vietnam-maps",
+    "name": "nguyenquang2302/vietnam-maps",
     "description": "Vietnam's area database.",
     "type": "library",
     "license": "MIT",
@@ -15,18 +15,18 @@
         "hanhchinhvietnam",
         "hcvn"
     ],
-    "homepage": "https://github.com/hoangphidev/vietnam-maps",
+    "homepage": "https://github.com/nguyenquang2302/vietnam-maps-clone",
     "authors": [
         {
             "name": "Phi Hoang",
             "email": "hoangphi.dev@gmail.com",
-            "homepage": "https://github.com/hoangphidev/vietnam-maps",
+            "homepage": "https://github.com/nguyenquang2302/vietnam-maps-clone",
             "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": "^7.2|^8.0",
+        "php": "^7.2|^8",
         "illuminate/support": "^5.8|^6|^7|^8|^9",
         "illuminate/database": "^5.8|^6|^7|^8|^9",
         "illuminate/console": "^5.8|^6|^7|^8|^9",
